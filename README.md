@@ -1,5 +1,6 @@
 # 2d-multiplayer-puzzle-game
 **Puzzle Your Way Out - PYWO** is a 2D cooparative local multiplayer puzzle game developed with Pygame library of Python in VS Code as a part of an academic team project for the course **Algorithmic Thinking**.  
+[View Gameplay](GamePlay_capture.mp4)
 
 ## Game Overview
 - Features 3 levels (1st - no time limit, 2nd - 3.5 min, 3rd - 2.5 min)
